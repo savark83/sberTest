@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sber", "Sber\Sber.csproj", "{4F2EE6E1-93E9-4CC0-810D-FE5288D09F41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sber.Test", "Sber.Test\Sber.Test.csproj", "{BABF3B82-349B-4C12-8D5F-B7C870D1563D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2EE6E1-93E9-4CC0-810D-FE5288D09F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2EE6E1-93E9-4CC0-810D-FE5288D09F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2EE6E1-93E9-4CC0-810D-FE5288D09F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2EE6E1-93E9-4CC0-810D-FE5288D09F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABF3B82-349B-4C12-8D5F-B7C870D1563D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABF3B82-349B-4C12-8D5F-B7C870D1563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABF3B82-349B-4C12-8D5F-B7C870D1563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABF3B82-349B-4C12-8D5F-B7C870D1563D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E4B7947-7C47-4B44-A949-23E4DA4106BC}
+	EndGlobalSection
+EndGlobal
